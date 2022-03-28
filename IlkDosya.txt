@@ -1,1 +1,3 @@
 Ilk dosya main uzerinde
+
+- Developer branch'i olusturuldu
