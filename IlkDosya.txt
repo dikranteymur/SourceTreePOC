@@ -5,3 +5,5 @@ Ilk dosya main uzerinde
 
 - Bu degisiklik "bugFix" uzerinden yapildi
 - Developer'da 2. degisiklik yapildiktan sonra BugFix'te degisiklik yapildi
+
+- Main'deki degisiklikten sonra Developer'da degisiklik yapildi
