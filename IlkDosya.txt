@@ -2,3 +2,5 @@ Ilk dosya main uzerinde
 
 - Developer branch'i olusturuldu
 - Developer branch'i remote'a gonderildi
+
+- BugFix olusturulduktan sonra Developer uzerinden degisiklik yapildi
