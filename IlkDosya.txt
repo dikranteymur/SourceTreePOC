@@ -1,0 +1,11 @@
+Ilk dosya main uzerinde
+
+- Developer branch'i olusturuldu
+- Developer branch'i remote'a gonderildi
+
+- Bu degisiklik "bugFix" uzerinden yapildi
+<<<<<<< HEAD
+- Developer'da 2. degisiklik yapildiktan sonra BugFix'te degisiklik yapildi
+=======
+- Developer'da 2. degisiklik yapildiktan sonra BugFix'te degisiklik yapildi
+>>>>>>> parent of 764b548 (Merge branch 'developer' of https://github.com/dikranteymur/SourceTreePOC into bugFix)
