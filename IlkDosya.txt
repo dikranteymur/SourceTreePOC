@@ -4,3 +4,4 @@ Ilk dosya main uzerinde
 - Developer branch'i remote'a gonderildi
 
 - BugFix olusturulduktan sonra Developer uzerinden degisiklik yapildi
+- BugFix olusturulduktan sonra Developer uzerinden 2. degisiklik yapildi
