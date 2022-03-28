@@ -7,3 +7,5 @@ Ilk dosya main uzerinde
 - Developer'da 2. degisiklik yapildiktan sonra BugFix'te degisiklik yapildi
 
 - Main'deki degisiklikten sonra Developer'da degisiklik yapildi
+
+- Main'de son degisiklik yapildi
